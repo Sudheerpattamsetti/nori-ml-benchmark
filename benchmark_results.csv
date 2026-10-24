@@ -1,0 +1,6 @@
+Model,CV_MAE,Test_MAE,Test_R2
+Original Random Forest,45.56,49.37,0.352
+Tuned Random Forest,45.29,49.34,0.349
+XGBoost,45.67,50.23,0.32
+LightGBM,46.05,51.07,0.28
+Nori 1.5,44.43,48.34,0.406
